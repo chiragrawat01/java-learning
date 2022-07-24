@@ -1,0 +1,23 @@
+          --(BASICS)--
+
+1) main= Is always a  default function
+
+2) void= Empty(it will not return anything)
+
+3) public= Access modifier (can be access anywhere)
+
+4) static= Without making class we can run projects
+
+          --(RULES)--
+
+     < NAMING CONVENTION >
+
+1) WE USE PASCAL CONVETION (FOR CLASSES)
+   
+FIRST LETTER SHOULD BE CAPITAL (Aman Kumar)
+
+
+2) WE USE CAMEL CASE CONVENTION (FOR FUNCTION)
+
+    first letter is lower (chiragRAwat)
+         
