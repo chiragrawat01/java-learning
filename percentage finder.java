@@ -2,7 +2,7 @@ import java.util.Scanner;
 // importing scanner tag
 
 
-public class Name {
+public class percentage {
     public static void main(String[] args) {
         //initalizing class name
 
@@ -40,7 +40,6 @@ public class Name {
 
         //making variable scored for total of all marks scored
         float scored=sub1+sub2+sub3+sub4+sub5;
-        System.out.println(scored);
         System.out.println("the total is ::"+scored);
 
 
