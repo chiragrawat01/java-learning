@@ -2,7 +2,7 @@ import java.util.Scanner;
 
 //importing input extension to take input
 
-public class Name {
+public class input {
     public static void main(String[] args) {
         System.out.println("taking import from the user");
         Scanner sc= new Scanner(System.in);

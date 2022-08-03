@@ -2,7 +2,7 @@ import java.util.Scanner;
 // importing scanner tag
 
 
-public class percentage {
+public class percentages  {
     public static void main(String[] args) {
         //initalizing class name
 
